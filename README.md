@@ -1,12 +1,12 @@
-## Hi there 👋⭐️
+## Hi there ⭐️
 
-Mi nombre es Marcela Chalco Soliz ❣️
+Mi nombre es Marcela Chalco Soliz 🤍
 
-Soy fiel creyente de que las oprtunidades no solo aparecen, dbemos crearlas.⚡️
+Soy fiel creyente de que las oprtunidades no solo aparecen, debemos crearlas.⚡️
 
-Ahora me encuentro estudiando Ingenieria de Sistemas en la Universidad Mayor de San Simon⭐️
+Ahora me encuentro estudiando 📓 Ingenieria de Sistemas 💻🖊 en la Universidad Mayor de San Simon⭐️
 
-La vida es ahora, haz que los dias cuenten y ten el valor para continuar. <3
+La vida es ahora, ⌛️ haz que los dias cuenten y ten el valor para continuar.🛣
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelaChalcoSoliz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
