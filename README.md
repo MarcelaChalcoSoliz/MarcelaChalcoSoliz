@@ -11,7 +11,8 @@ La vida es ahora, ⌛️ haz que los dias cuenten y ten el valor para continuar.
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelaChalcoSoliz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Imagen1](https://github.com/user-attachments/assets/f6d344e2-a722-4c4d-a83e-da39dd3ca55f){:width="150px"}
+![imagen2](https://github.com/user-attachments/assets/5b3b7633-fd9e-4090-97c6-a6882711652a)
+
 
 <!--
 **MarcelaChalcoSoliz/MarcelaChalcoSoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
