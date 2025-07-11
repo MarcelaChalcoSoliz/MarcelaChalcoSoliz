@@ -10,8 +10,8 @@ La vida es ahora, ⌛️ haz que los dias cuenten y ten el valor para continuar.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelaChalcoSoliz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![imag4](https://github.com/user-attachments/assets/9c42724e-2471-462f-bd02-867ecc0d6dcd)
 
-![imagen3](https://github.com/user-attachments/assets/a6e0fad0-8337-4473-85f1-cdf116568b83)
 
 
 <!--
