@@ -1,4 +1,4 @@
-## Hi there ⭐️
+## Hi ☀️
 
 Mi nombre es Marcela Chalco Soliz 🤍
 
@@ -9,6 +9,8 @@ Ahora me encuentro estudiando 📓 Ingenieria de Sistemas 💻🖊 en la Univers
 La vida es ahora, ⌛️ haz que los dias cuenten y ten el valor para continuar.🛣
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelaChalcoSoliz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![imagendecompu](https://github.com/user-attachments/assets/1c0b1a14-01ea-4ed5-8aee-893906126645)
+
 
 <!--
 **MarcelaChalcoSoliz/MarcelaChalcoSoliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
