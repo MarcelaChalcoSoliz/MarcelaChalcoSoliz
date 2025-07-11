@@ -4,7 +4,7 @@ Mi nombre es Marcela Chalco Soliz 🤍
 
 Soy fiel creyente de que las oprtunidades no solo aparecen, debemos crearlas.⚡️
 
-Ahora me encuentro estudiando 📓 Ingenieria de Sistemas 💻🖊 en la Universidad Mayor de San Simon⭐️
+Ahora me encuentro estudiando 📓 Ingenieria de Sistemas 💻🖊 en la Universidad Mayor de San Simon.⭐️
 
 La vida es ahora, ⌛️ haz que los dias cuenten y ten el valor para continuar.🛣
 
